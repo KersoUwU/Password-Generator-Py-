@@ -1,2 +1,5 @@
-# Password-Generator-Py-
- Password generator programmed in Python
+
+
+REDNAME 
+
+The generator can only be switched on via IDLE
